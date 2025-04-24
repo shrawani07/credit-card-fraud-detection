@@ -1,0 +1,20 @@
+# Ignore data files
+data/
+creditcard.csv
+
+# Ignore image files
+images/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore environment/config files
+.env
+*.env
+_pycache_/
+*.pyc
